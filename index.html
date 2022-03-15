@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang ="en"> 
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script src="JavaScript.js"></script>
+  <script src="MPOS.xml"></script>
+  <script src="sorttable.js"></script>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv='refresh' content='400'>  <!-- oppdateringsintervaller -->
+    <link rel="stylesheet" href="styles.css">
+    <title>ImportPOS</title>
+    <h1>Statusoversikt</h1>
+  </head>
+  
+  <body onload="loadXMLDoc()">
+    <table>
+      <tr>
+        <td>
+        <div id="chartOnline" style="width: 400px; height: 300px;"></div>
+        </td>
+        <td>
+          <div id="tableContainer" class="tableContainer">
+        <table id="dataTable_Online" border="0" cellpadding="0" cellspacing="0" width="100%" class="scrollTable"></table>
+      </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <div id="chartSize" style="width: 400; height: 300px;"></div>
+        </td>
+        <td>
+          <div id="tableContainer" class="tableContainer">
+        <table id="dataTable_Size" border="0" cellpadding="0" cellspacing="0" width="100%" class="scrollTable">
+        </div>
+       </table>
+        </td>
+      </tr>
+    </table>
+    <timeupdate>Sist oppdatert: <span id="datetime"></span></timeupdate>
+  
+    <script>
+    // dato og klokkeslett da siden ble lastet sist
+    var dt = new Date();
+    document.getElementById("datetime").innerHTML = dt.toLocaleString();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <row>
+    <ComputerName>MPOS-XDGPYMOJFV</ComputerName>
+    <TerminalNumber>27401</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>7480</RowSize>
+    <TotalSize>7786</TotalSize>
+    <TerminalName>Kasse 1 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-6K5PVDPFLR</ComputerName>
+    <TerminalNumber>27402</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274</HardwareProfile>
+    <LogSize>406</LogSize>
+    <RowSize>8002</RowSize>
+    <TotalSize>8408</TotalSize>
+    <TerminalName>Kasse 2 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OSMKOEJWHY</ComputerName>
+    <TerminalNumber>27403</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>8011</RowSize>
+    <TotalSize>8019</TotalSize>
+    <TerminalName>Kasse 3 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OO9SBAOX2S</ComputerName>
+    <TerminalNumber>27404</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7983</RowSize>
+    <TotalSize>8353</TotalSize>
+    <TerminalName>Kasse 4 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-9XEXUZGCPX</ComputerName>
+    <TerminalNumber>27405</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8010</RowSize>
+    <TotalSize>8379</TotalSize>
+    <TerminalName>Kasse 5 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-A3BIPEPHWD</ComputerName>
+    <TerminalNumber>27406</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274u</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7255</RowSize>
+    <TotalSize>7263</TotalSize>
+    <TerminalName>Kasse 6 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ZFOMB9SECN</ComputerName>
+    <TerminalNumber>27407</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274um</HardwareProfile>
+    <LogSize>406</LogSize>
+    <RowSize>7253</RowSize>
+    <TotalSize>7659</TotalSize>
+    <TerminalName>Kasse 7 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YI9NMW2U2Q</ComputerName>
+    <TerminalNumber>27408</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274m</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7259</RowSize>
+    <TotalSize>7267</TotalSize>
+    <TerminalName>Kasse 8 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-K296YKSCW8</ComputerName>
+    <TerminalNumber>27409</TerminalNumber>
+    <StoreNumber>274</StoreNumber>
+    <HardwareProfile>MLH0274m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7259</RowSize>
+    <TotalSize>7629</TotalSize>
+    <TerminalName>Kasse 9 Vækerø</TerminalName>
+    <StoreName>MAXBO Stormarked Vækerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-GWHQPPGKXK</ComputerName>
+    <TerminalNumber>33101</TerminalNumber>
+    <StoreNumber>331</StoreNumber>
+    <HardwareProfile>MLH0331</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Sørumsand</TerminalName>
+    <StoreName>Maxbo Sørumsand</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-HY5RIQOVQI</ComputerName>
+    <TerminalNumber>33102</TerminalNumber>
+    <StoreNumber>331</StoreNumber>
+    <HardwareProfile>MLH0331m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8307</RowSize>
+    <TotalSize>8676</TotalSize>
+    <TerminalName>Kasse 2 Sørumsand</TerminalName>
+    <StoreName>Maxbo Sørumsand</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-D7123V0QAQ</ComputerName>
+    <TerminalNumber>28201</TerminalNumber>
+    <StoreNumber>282</StoreNumber>
+    <HardwareProfile>MLH0282</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Lillestrøm</TerminalName>
+    <StoreName>Maxbo Lillestrøm</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-63UEBH3F4C</ComputerName>
+    <TerminalNumber>28202</TerminalNumber>
+    <StoreNumber>282</StoreNumber>
+    <HardwareProfile>MLH0282m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8310</RowSize>
+    <TotalSize>8680</TotalSize>
+    <TerminalName>Kasse 2 Lillestrøm</TerminalName>
+    <StoreName>Maxbo Lillestrøm</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KJFTDSOK2M</ComputerName>
+    <TerminalNumber>27801</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7745</RowSize>
+    <TotalSize>7753</TotalSize>
+    <TerminalName>Kasse 1 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-JI0BB3SOJL</ComputerName>
+    <TerminalNumber>27802</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278m</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7747</RowSize>
+    <TotalSize>7755</TotalSize>
+    <TerminalName>Kasse 2 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KAT4SUWJPB</ComputerName>
+    <TerminalNumber>27803</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>8395</RowSize>
+    <TotalSize>8403</TotalSize>
+    <TerminalName>Kasse 3 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ADYALSX2OL</ComputerName>
+    <TerminalNumber>27804</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278u</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7768</RowSize>
+    <TotalSize>7777</TotalSize>
+    <TerminalName>Kasse 4 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ASEVBCQZWR</ComputerName>
+    <TerminalNumber>27805</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7768</RowSize>
+    <TotalSize>7776</TotalSize>
+    <TerminalName>Kasse 5 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VUWH4KDG7T</ComputerName>
+    <TerminalNumber>27806</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278u</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7837</RowSize>
+    <TotalSize>7845</TotalSize>
+    <TerminalName>Kasse 6 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OHV7LGLTS9</ComputerName>
+    <TerminalNumber>27807</TerminalNumber>
+    <StoreNumber>278</StoreNumber>
+    <HardwareProfile>MLH0278</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>8513</RowSize>
+    <TotalSize>8521</TotalSize>
+    <TerminalName>Kasse 7 Alna</TerminalName>
+    <StoreName>Maxbo Stormarked Alna</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-HE4EBSFTRB</ComputerName>
+    <TerminalNumber>30401</TerminalNumber>
+    <StoreNumber>304</StoreNumber>
+    <HardwareProfile>MLH0304_uk</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8521</RowSize>
+    <TotalSize>8891</TotalSize>
+    <TerminalName>Kasse 1 Nittedal</TerminalName>
+    <StoreName>MAXBO Nittedal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-BPYK0PRQGL</ComputerName>
+    <TerminalNumber>30402</TerminalNumber>
+    <StoreNumber>304</StoreNumber>
+    <HardwareProfile>MLH0304m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7890</RowSize>
+    <TotalSize>8259</TotalSize>
+    <TerminalName>Kasse 2 Nittedal</TerminalName>
+    <StoreName>MAXBO Nittedal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YNCDAF6QNT</ComputerName>
+    <TerminalNumber>30403</TerminalNumber>
+    <StoreNumber>304</StoreNumber>
+    <HardwareProfile>MLH0304</HardwareProfile>
+    <TerminalName>Kasse 3 Nittedal</TerminalName>
+    <StoreName>MAXBO Nittedal</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-PQ4UW36HK4</ComputerName>
+    <TerminalNumber>28401</TerminalNumber>
+    <StoreNumber>284</StoreNumber>
+    <HardwareProfile>MLH0284</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>7988</RowSize>
+    <TotalSize>8947</TotalSize>
+    <TerminalName>Kasse 1 Holmen</TerminalName>
+    <StoreName>MAXBO Holmen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-06QWU10SGM</ComputerName>
+    <TerminalNumber>28402</TerminalNumber>
+    <StoreNumber>284</StoreNumber>
+    <HardwareProfile>MLH0284m</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>7953</RowSize>
+    <TotalSize>8912</TotalSize>
+    <TerminalName>Kasse 2 Holmen</TerminalName>
+    <StoreName>MAXBO Holmen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-8W8EFGJAPS</ComputerName>
+    <TerminalNumber>28403</TerminalNumber>
+    <StoreNumber>284</StoreNumber>
+    <HardwareProfile>MLH0284u</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>7943</RowSize>
+    <TotalSize>8902</TotalSize>
+    <TerminalName>Kasse 3 Holmen</TerminalName>
+    <StoreName>MAXBO Holmen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ETZ5R9TVGV</ComputerName>
+    <TerminalNumber>30801</TerminalNumber>
+    <StoreNumber>308</StoreNumber>
+    <HardwareProfile>MLH0308</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7666</RowSize>
+    <TotalSize>8036</TotalSize>
+    <TerminalName>Kasse 1 Proff Bergen</TerminalName>
+    <StoreName>MAXBO Proff Bergen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VXJWLFIB09</ComputerName>
+    <TerminalNumber>30802</TerminalNumber>
+    <StoreNumber>308</StoreNumber>
+    <HardwareProfile>MLH0308</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7520</RowSize>
+    <TotalSize>7889</TotalSize>
+    <TerminalName>Kasse 2 Proff Bergen</TerminalName>
+    <StoreName>MAXBO Proff Bergen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-RQ9XQQJMUM</ComputerName>
+    <TerminalNumber>28701</TerminalNumber>
+    <StoreNumber>287</StoreNumber>
+    <HardwareProfile>MLH0287</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8473</RowSize>
+    <TotalSize>8842</TotalSize>
+    <TerminalName>Kasse 1 Notodden</TerminalName>
+    <StoreName>MAXBO Notodden</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-Z5NGU0KJSI</ComputerName>
+    <TerminalNumber>28702</TerminalNumber>
+    <StoreNumber>287</StoreNumber>
+    <HardwareProfile>MLH0287</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8462</RowSize>
+    <TotalSize>8831</TotalSize>
+    <TerminalName>Kasse 2 Notodden</TerminalName>
+    <StoreName>MAXBO Notodden</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-2HDHRIFR9L</ComputerName>
+    <TerminalNumber>29701</TerminalNumber>
+    <StoreNumber>297</StoreNumber>
+    <HardwareProfile>MLH0297</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8235</RowSize>
+    <TotalSize>8605</TotalSize>
+    <TerminalName>Kasse 1 Elverum</TerminalName>
+    <StoreName>MAXBO Elverum</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-3ZKI61PCBW</ComputerName>
+    <TerminalNumber>29702</TerminalNumber>
+    <StoreNumber>297</StoreNumber>
+    <HardwareProfile>MLH0297</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7510</RowSize>
+    <TotalSize>7518</TotalSize>
+    <TerminalName>Kasse 2 Elverum</TerminalName>
+    <StoreName>MAXBO Elverum</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KBAJVDWO10</ComputerName>
+    <TerminalNumber>29703</TerminalNumber>
+    <StoreNumber>297</StoreNumber>
+    <HardwareProfile>MLH0297u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8367</RowSize>
+    <TotalSize>8737</TotalSize>
+    <TerminalName>Kasse 3 Elverum</TerminalName>
+    <StoreName>MAXBO Elverum</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-4YSD8L8HZT</ComputerName>
+    <TerminalNumber>30101</TerminalNumber>
+    <StoreNumber>301</StoreNumber>
+    <HardwareProfile>MLH0301</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7715</RowSize>
+    <TotalSize>8085</TotalSize>
+    <TerminalName>Kasse 1 Proff Ålesund</TerminalName>
+    <StoreName>MAXBO Digernes</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-FC6TKJEPKB</ComputerName>
+    <TerminalNumber>30102</TerminalNumber>
+    <StoreNumber>301</StoreNumber>
+    <HardwareProfile>MLH0301u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7763</RowSize>
+    <TotalSize>8133</TotalSize>
+    <TerminalName>Kasse 2 Proff Ålesund</TerminalName>
+    <StoreName>MAXBO Digernes</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ZJTEGGR8DW</ComputerName>
+    <TerminalNumber>30901</TerminalNumber>
+    <StoreNumber>309</StoreNumber>
+    <HardwareProfile>MLH0309</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7939</RowSize>
+    <TotalSize>8309</TotalSize>
+    <TerminalName>Kasse 1 Proff Stavanger</TerminalName>
+    <StoreName>MAXBO Proff Stavanger</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-JLAYF5TKB3</ComputerName>
+    <TerminalNumber>30902</TerminalNumber>
+    <StoreNumber>309</StoreNumber>
+    <HardwareProfile>MLH0309</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7696</RowSize>
+    <TotalSize>8065</TotalSize>
+    <TerminalName>Kasse 2 Proff Stavanger</TerminalName>
+    <StoreName>MAXBO Proff Stavanger</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YMFDKEGHZK</ComputerName>
+    <TerminalNumber>32101</TerminalNumber>
+    <StoreNumber>321</StoreNumber>
+    <HardwareProfile>MLH0321</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7700</RowSize>
+    <TotalSize>8070</TotalSize>
+    <TerminalName>Kasse 1 Hemsedal</TerminalName>
+    <StoreName>MAXBO Hemsedal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OU0RWEQGKU</ComputerName>
+    <TerminalNumber>32102</TerminalNumber>
+    <StoreNumber>321</StoreNumber>
+    <HardwareProfile>MLH0321u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7694</RowSize>
+    <TotalSize>8064</TotalSize>
+    <TerminalName>Kasse 2 Hemsedal</TerminalName>
+    <StoreName>MAXBO Hemsedal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-1SBQJZXL3B</ComputerName>
+    <TerminalNumber>34201</TerminalNumber>
+    <StoreNumber>342</StoreNumber>
+    <HardwareProfile>MLH0342</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8416</RowSize>
+    <TotalSize>8785</TotalSize>
+    <TerminalName>Kasse 1 Horten</TerminalName>
+    <StoreName>MAXBO Horten</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-WKVOEESTEQ</ComputerName>
+    <TerminalNumber>34202</TerminalNumber>
+    <StoreNumber>342</StoreNumber>
+    <HardwareProfile>MLH0342</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7671</RowSize>
+    <TotalSize>8040</TotalSize>
+    <TerminalName>Kasse 2 Horten</TerminalName>
+    <StoreName>MAXBO Horten</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-1KJ0KBHSYZ</ComputerName>
+    <TerminalNumber>34203</TerminalNumber>
+    <StoreNumber>342</StoreNumber>
+    <HardwareProfile>MLH0342u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8388</RowSize>
+    <TotalSize>8757</TotalSize>
+    <TerminalName>Kasse 3 Horten</TerminalName>
+    <StoreName>MAXBO Horten</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-R4RZ0UG1FB</ComputerName>
+    <TerminalNumber>32801</TerminalNumber>
+    <StoreNumber>328</StoreNumber>
+    <HardwareProfile>MLH0328</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8404</RowSize>
+    <TotalSize>8773</TotalSize>
+    <TerminalName>Kasse 1 Vestby</TerminalName>
+    <StoreName>MAXBO Vestby</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-JZBFAJ8PQ6</ComputerName>
+    <TerminalNumber>32802</TerminalNumber>
+    <StoreNumber>328</StoreNumber>
+    <HardwareProfile>MLH0328u</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>7653</RowSize>
+    <TotalSize>8612</TotalSize>
+    <TerminalName>Kasse 2 Vestby</TerminalName>
+    <StoreName>MAXBO Vestby</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-MSSFBQSLGI</ComputerName>
+    <TerminalNumber>30001</TerminalNumber>
+    <StoreNumber>300</StoreNumber>
+    <HardwareProfile>MLH0300</HardwareProfile>
+    <LogSize>336</LogSize>
+    <RowSize>7178</RowSize>
+    <TotalSize>7514</TotalSize>
+    <TerminalName>Kasse 1 Ålesund</TerminalName>
+    <StoreName>MAXBO Ålesund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-RFXDT2S6XT</ComputerName>
+    <TerminalNumber>30002</TerminalNumber>
+    <StoreNumber>300</StoreNumber>
+    <HardwareProfile>MLH0300u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7719</RowSize>
+    <TotalSize>8089</TotalSize>
+    <TerminalName>Kasse 2 Ålesund</TerminalName>
+    <StoreName>MAXBO Ålesund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-H1OCGCIDZK</ComputerName>
+    <TerminalNumber>30003</TerminalNumber>
+    <StoreNumber>300</StoreNumber>
+    <HardwareProfile>MLH0300u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7992</RowSize>
+    <TotalSize>8362</TotalSize>
+    <TerminalName>Kasse 3 Ålesund</TerminalName>
+    <StoreName>MAXBO Ålesund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-CSCBN9LMYJ</ComputerName>
+    <TerminalNumber>32201</TerminalNumber>
+    <StoreNumber>322</StoreNumber>
+    <HardwareProfile>MLH0322</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7815</RowSize>
+    <TotalSize>8185</TotalSize>
+    <TerminalName>Kasse 1 Flå</TerminalName>
+    <StoreName>MAXBO Flå</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-L5VGTOLXVI</ComputerName>
+    <TerminalNumber>32202</TerminalNumber>
+    <StoreNumber>322</StoreNumber>
+    <HardwareProfile>MLH0322u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8395</RowSize>
+    <TotalSize>8764</TotalSize>
+    <TerminalName>Kasse 2 Flå</TerminalName>
+    <StoreName>MAXBO Flå</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-MKXBAF0DJX</ComputerName>
+    <TerminalNumber>30601</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8307</RowSize>
+    <TotalSize>8676</TotalSize>
+    <TerminalName>Kasse 1 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YLSVFEVKWC</ComputerName>
+    <TerminalNumber>30602</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8336</RowSize>
+    <TotalSize>8706</TotalSize>
+    <TerminalName>Kasse 2 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QAST1DZDV8</ComputerName>
+    <TerminalNumber>30603</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7730</RowSize>
+    <TotalSize>8100</TotalSize>
+    <TerminalName>Kasse 3 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-LHAF0OKCFH</ComputerName>
+    <TerminalNumber>30604</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <TerminalName>Kasse 4 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-W1LA9HTQHZ</ComputerName>
+    <TerminalNumber>30605</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7767</RowSize>
+    <TotalSize>7775</TotalSize>
+    <TerminalName>Kasse 5 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-DOVNYL2DJY</ComputerName>
+    <TerminalNumber>30606</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8396</RowSize>
+    <TotalSize>8766</TotalSize>
+    <TerminalName>Kasse 6 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QWRLLRUXE1</ComputerName>
+    <TerminalNumber>30607</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7700</RowSize>
+    <TotalSize>8070</TotalSize>
+    <TerminalName>Kasse 7 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-3TEPPYZSUU</ComputerName>
+    <TerminalNumber>30608</TerminalNumber>
+    <StoreNumber>306</StoreNumber>
+    <HardwareProfile>MLH0306um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7628</RowSize>
+    <TotalSize>7998</TotalSize>
+    <TerminalName>Kasse 8 Hvam</TerminalName>
+    <StoreName>MAXBO Stormarked Hvam</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QC0GXUDZ8I</ComputerName>
+    <TerminalNumber>32401</TerminalNumber>
+    <StoreNumber>324</StoreNumber>
+    <HardwareProfile>MLH0324</HardwareProfile>
+    <LogSize>406</LogSize>
+    <RowSize>7736</RowSize>
+    <TotalSize>8142</TotalSize>
+    <TerminalName>Kasse 1 Slemmestad</TerminalName>
+    <StoreName>MAXBO Slemmestad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-IPLFF9DWZU</ComputerName>
+    <TerminalNumber>32402</TerminalNumber>
+    <StoreNumber>324</StoreNumber>
+    <HardwareProfile>MLH0324</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7684</RowSize>
+    <TotalSize>8054</TotalSize>
+    <TerminalName>Kasse 2 Slemmestad</TerminalName>
+    <StoreName>MAXBO Slemmestad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-6VOQBWTPBU</ComputerName>
+    <TerminalNumber>32501</TerminalNumber>
+    <StoreNumber>325</StoreNumber>
+    <HardwareProfile>MLH0325</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8401</RowSize>
+    <TotalSize>8770</TotalSize>
+    <TerminalName>Kasse 1 Åmot</TerminalName>
+    <StoreName>MAXBO Åmot</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-LPILSK4AXW</ComputerName>
+    <TerminalNumber>32502</TerminalNumber>
+    <StoreNumber>325</StoreNumber>
+    <HardwareProfile>MLH0325</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7713</RowSize>
+    <TotalSize>8082</TotalSize>
+    <TerminalName>Kasse 2 Åmot</TerminalName>
+    <StoreName>MAXBO Åmot</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QGIZIMFHTB</ComputerName>
+    <TerminalNumber>32601</TerminalNumber>
+    <StoreNumber>326</StoreNumber>
+    <HardwareProfile>MLH0326</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8433</RowSize>
+    <TotalSize>8803</TotalSize>
+    <TerminalName>Kasse 1 Rjukan</TerminalName>
+    <StoreName>MAXBO Rjukan</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-1UH0U9CFCC</ComputerName>
+    <TerminalNumber>32602</TerminalNumber>
+    <StoreNumber>326</StoreNumber>
+    <HardwareProfile>MLH0326</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7684</RowSize>
+    <TotalSize>8053</TotalSize>
+    <TerminalName>Kasse 2 Rjukan</TerminalName>
+    <StoreName>MAXBO Rjukan</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OZTCXYVGAL</ComputerName>
+    <TerminalNumber>29801</TerminalNumber>
+    <StoreNumber>298</StoreNumber>
+    <HardwareProfile>MLH0298u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8396</RowSize>
+    <TotalSize>8766</TotalSize>
+    <TerminalName>Kasse 1 Brumunddal</TerminalName>
+    <StoreName>MAXBO Brumunddal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-NGOJ4LPEOH</ComputerName>
+    <TerminalNumber>29802</TerminalNumber>
+    <StoreNumber>298</StoreNumber>
+    <HardwareProfile>MLH0298</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7697</RowSize>
+    <TotalSize>8067</TotalSize>
+    <TerminalName>Kasse 2 Brumunddal</TerminalName>
+    <StoreName>MAXBO Brumunddal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-AZTTNYQ7LJ</ComputerName>
+    <TerminalNumber>29803</TerminalNumber>
+    <StoreNumber>298</StoreNumber>
+    <HardwareProfile>MLH0298um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8868</RowSize>
+    <TotalSize>9238</TotalSize>
+    <TerminalName>Kasse 3 Brumunddal</TerminalName>
+    <StoreName>MAXBO Brumunddal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-TIW657MMHP</ComputerName>
+    <TerminalNumber>28501</TerminalNumber>
+    <StoreNumber>285</StoreNumber>
+    <HardwareProfile>MLH0285</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7710</RowSize>
+    <TotalSize>8079</TotalSize>
+    <TerminalName>Kasse 1 Fredrikstad</TerminalName>
+    <StoreName>MAXBO Stormarked Fredrikstad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-WH2S0AK9XS</ComputerName>
+    <TerminalNumber>28502</TerminalNumber>
+    <StoreNumber>285</StoreNumber>
+    <HardwareProfile>MLH0285u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7695</RowSize>
+    <TotalSize>8065</TotalSize>
+    <TerminalName>Kasse 2 Fredrikstad</TerminalName>
+    <StoreName>MAXBO Stormarked Fredrikstad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-W5WQFTTQII</ComputerName>
+    <TerminalNumber>28503</TerminalNumber>
+    <StoreNumber>285</StoreNumber>
+    <HardwareProfile>MLH0285u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8369</RowSize>
+    <TotalSize>8739</TotalSize>
+    <TerminalName>Kasse 3 Fredrikstad</TerminalName>
+    <StoreName>MAXBO Stormarked Fredrikstad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-NX4VXLYGUC</ComputerName>
+    <TerminalNumber>28504</TerminalNumber>
+    <StoreNumber>285</StoreNumber>
+    <HardwareProfile>MLH0285u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7699</RowSize>
+    <TotalSize>8068</TotalSize>
+    <TerminalName>Kasse 4 Fredrikstad</TerminalName>
+    <StoreName>MAXBO Stormarked Fredrikstad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-EIPYEV0WYP</ComputerName>
+    <TerminalNumber>28505</TerminalNumber>
+    <StoreNumber>285</StoreNumber>
+    <HardwareProfile>MLH0285um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8433</RowSize>
+    <TotalSize>8802</TotalSize>
+    <TerminalName>Kasse 5 Fredrikstad</TerminalName>
+    <StoreName>MAXBO Stormarked Fredrikstad</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-2JZHXBFD5R</ComputerName>
+    <TerminalNumber>31701</TerminalNumber>
+    <StoreNumber>317</StoreNumber>
+    <HardwareProfile>MLH0317</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>8306</RowSize>
+    <TotalSize>9265</TotalSize>
+    <TerminalName>Kasse 1 Stokke</TerminalName>
+    <StoreName>MAXBO Stokke</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-1YPJ623Y5C</ComputerName>
+    <TerminalNumber>31702</TerminalNumber>
+    <StoreNumber>317</StoreNumber>
+    <HardwareProfile>MLH0317</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Stokke</TerminalName>
+    <StoreName>MAXBO Stokke</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-L4OQ2GFSPB</ComputerName>
+    <TerminalNumber>31703</TerminalNumber>
+    <StoreNumber>317</StoreNumber>
+    <HardwareProfile>MLH0317um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8311</RowSize>
+    <TotalSize>8680</TotalSize>
+    <TerminalName>Kasse 3 Stokke</TerminalName>
+    <StoreName>MAXBO Stokke</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VKROFP4ZZF</ComputerName>
+    <TerminalNumber>27501</TerminalNumber>
+    <StoreNumber>275</StoreNumber>
+    <HardwareProfile>MLH0275</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7553</RowSize>
+    <TotalSize>7561</TotalSize>
+    <TerminalName>Kasse 1 Sinsen</TerminalName>
+    <StoreName>MAXBO Sinsen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-BC1AKAPDSY</ComputerName>
+    <TerminalNumber>27502</TerminalNumber>
+    <StoreNumber>275</StoreNumber>
+    <HardwareProfile>MLH0275</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7519</RowSize>
+    <TotalSize>7527</TotalSize>
+    <TerminalName>Kasse 2 Sinsen</TerminalName>
+    <StoreName>MAXBO Sinsen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-JCLRUPDMIA</ComputerName>
+    <TerminalNumber>27503</TerminalNumber>
+    <StoreNumber>275</StoreNumber>
+    <HardwareProfile>MLH0275</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7556</RowSize>
+    <TotalSize>7564</TotalSize>
+    <TerminalName>Kasse 3 Sinsen</TerminalName>
+    <StoreName>MAXBO Sinsen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-2QF19LOEQB</ComputerName>
+    <TerminalNumber>27504</TerminalNumber>
+    <StoreNumber>275</StoreNumber>
+    <HardwareProfile>MLH0275m</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>7547</RowSize>
+    <TotalSize>7555</TotalSize>
+    <TerminalName>Kasse 4 Sinsen</TerminalName>
+    <StoreName>MAXBO Sinsen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-3ZCTQV7SOC</ComputerName>
+    <TerminalNumber>31801</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-IKHB5LVYK3</ComputerName>
+    <TerminalNumber>31802</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318</HardwareProfile>
+    <LogSize>2056</LogSize>
+    <RowSize>7559</RowSize>
+    <TotalSize>9615</TotalSize>
+    <TerminalName>Kasse 2 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-5O8ZU0Q3SY</ComputerName>
+    <TerminalNumber>31803</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>7947</TotalSize>
+    <TerminalName>Kasse 3 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-BEF0ZB7DYF</ComputerName>
+    <TerminalNumber>31804</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>20154</TotalSize>
+    <TerminalName>Kasse 4 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-XYEYETBARN</ComputerName>
+    <TerminalNumber>31805</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318u</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>7573</RowSize>
+    <TotalSize>7878</TotalSize>
+    <TerminalName>Kasse 5 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-DBH2WXZI7Z</ComputerName>
+    <TerminalNumber>31806</TerminalNumber>
+    <StoreNumber>318</StoreNumber>
+    <HardwareProfile>MLH0318um</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>20154</TotalSize>
+    <TerminalName>Kasse 6 Lier</TerminalName>
+    <StoreName>MAXBO Stormarked Lier</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-FAWJKUNIGK</ComputerName>
+    <TerminalNumber>33501</TerminalNumber>
+    <StoreNumber>335</StoreNumber>
+    <HardwareProfile>MLH0335</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>29</RowSize>
+    <TotalSize>37</TotalSize>
+    <TerminalName>Kasse 1 Skansen</TerminalName>
+    <StoreName>MAXBO Bjørkelangen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-Z1HVDHYRXQ</ComputerName>
+    <TerminalNumber>33502</TerminalNumber>
+    <StoreNumber>335</StoreNumber>
+    <HardwareProfile>MLH0335</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>29</RowSize>
+    <TotalSize>37</TotalSize>
+    <TerminalName>Kasse 2 Skansen</TerminalName>
+    <StoreName>MAXBO Bjørkelangen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:40:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-W5WWS0NO0P</ComputerName>
+    <TerminalNumber>33503</TerminalNumber>
+    <StoreNumber>335</StoreNumber>
+    <HardwareProfile>MLH0335um</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>29</RowSize>
+    <TotalSize>37</TotalSize>
+    <TerminalName>Kasse 3 Skansen</TerminalName>
+    <StoreName>MAXBO Bjørkelangen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-G9S0B2UXMP</ComputerName>
+    <TerminalNumber>29001</TerminalNumber>
+    <StoreNumber>290</StoreNumber>
+    <HardwareProfile>MLH0290</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8326</RowSize>
+    <TotalSize>8695</TotalSize>
+    <TerminalName>Kasse 1 Hønefoss</TerminalName>
+    <StoreName>MAXBO Hønefoss</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-P7KFDQNDDK</ComputerName>
+    <TerminalNumber>29002</TerminalNumber>
+    <StoreNumber>290</StoreNumber>
+    <HardwareProfile>MLH0290u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>8334</RowSize>
+    <TotalSize>8703</TotalSize>
+    <TerminalName>Kasse 2 Hønefoss</TerminalName>
+    <StoreName>MAXBO Hønefoss</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-9DTMPTSISH</ComputerName>
+    <TerminalNumber>29003</TerminalNumber>
+    <StoreNumber>290</StoreNumber>
+    <HardwareProfile>MLH0290m</HardwareProfile>
+    <LogSize>959</LogSize>
+    <RowSize>8327</RowSize>
+    <TotalSize>9286</TotalSize>
+    <TerminalName>Kasse 3 Hønefoss</TerminalName>
+    <StoreName>MAXBO Hønefoss</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KBAWKYX1QB</ComputerName>
+    <TerminalNumber>33201</TerminalNumber>
+    <StoreNumber>332</StoreNumber>
+    <HardwareProfile>MLH0332</HardwareProfile>
+    <TerminalName>Kasse 1 Trysil</TerminalName>
+    <StoreName>MAXBO Trysil</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KVFFFX7N5O</ComputerName>
+    <TerminalNumber>33202</TerminalNumber>
+    <StoreNumber>332</StoreNumber>
+    <HardwareProfile>MLH0332m</HardwareProfile>
+    <LogSize>8589</LogSize>
+    <RowSize>7276</RowSize>
+    <TotalSize>15865</TotalSize>
+    <TerminalName>Kasse 2 Trysil</TerminalName>
+    <StoreName>MAXBO Trysil</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-IHHTSY10HR</ComputerName>
+    <TerminalNumber>33601</TerminalNumber>
+    <StoreNumber>336</StoreNumber>
+    <HardwareProfile>MLH0336</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>29</RowSize>
+    <TotalSize>37</TotalSize>
+    <TerminalName>Kasse 1 Hokksund</TerminalName>
+    <StoreName>MAXBO Hokksund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-XGRS3H0J4N</ComputerName>
+    <TerminalNumber>33602</TerminalNumber>
+    <StoreNumber>336</StoreNumber>
+    <HardwareProfile>MLH0336u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7655</RowSize>
+    <TotalSize>8025</TotalSize>
+    <TerminalName>Kasse 2 Hokksund</TerminalName>
+    <StoreName>MAXBO Hokksund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KYP8BKOZ0U</ComputerName>
+    <TerminalNumber>33603</TerminalNumber>
+    <StoreNumber>336</StoreNumber>
+    <HardwareProfile>MLH0336um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7774</RowSize>
+    <TotalSize>8143</TotalSize>
+    <TerminalName>Kasse 3 Hokksund</TerminalName>
+    <StoreName>MAXBO Hokksund</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QQSDVNSCYK</ComputerName>
+    <TerminalNumber>27701</TerminalNumber>
+    <StoreNumber>277</StoreNumber>
+    <HardwareProfile>MLH0277</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7765</RowSize>
+    <TotalSize>8135</TotalSize>
+    <TerminalName>Kasse 1 Karihaugen</TerminalName>
+    <StoreName>MAXBO Karihaugen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-LX6HF0UN5U</ComputerName>
+    <TerminalNumber>27702</TerminalNumber>
+    <StoreNumber>277</StoreNumber>
+    <HardwareProfile>MLH0277</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7542</RowSize>
+    <TotalSize>7912</TotalSize>
+    <TerminalName>Kasse 2 Karihaugen</TerminalName>
+    <StoreName>MAXBO Karihaugen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-P7MWUSHUSJ</ComputerName>
+    <TerminalNumber>27703</TerminalNumber>
+    <StoreNumber>277</StoreNumber>
+    <HardwareProfile>MLH0277um</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>6884</RowSize>
+    <TotalSize>7189</TotalSize>
+    <TerminalName>Kasse 3 Karihaugen</TerminalName>
+    <StoreName>MAXBO Karihaugen</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-S8X5EUB5KM</ComputerName>
+    <TerminalNumber>29501</TerminalNumber>
+    <StoreNumber>295</StoreNumber>
+    <HardwareProfile>MLH0295</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Hamar</TerminalName>
+    <StoreName>MAXBO Stormarked Hamar</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-SFRUVMTXQY</ComputerName>
+    <TerminalNumber>29502</TerminalNumber>
+    <StoreNumber>295</StoreNumber>
+    <HardwareProfile>MLH0295u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Hamar</TerminalName>
+    <StoreName>MAXBO Stormarked Hamar</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KBAUVWFC1O</ComputerName>
+    <TerminalNumber>29503</TerminalNumber>
+    <StoreNumber>295</StoreNumber>
+    <HardwareProfile>MLH0295um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 3 Hamar</TerminalName>
+    <StoreName>MAXBO Stormarked Hamar</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-U8LHGDULNS</ComputerName>
+    <TerminalNumber>27901</TerminalNumber>
+    <StoreNumber>279</StoreNumber>
+    <HardwareProfile>MLH0279</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>26</RowSize>
+    <TotalSize>34</TotalSize>
+    <TerminalName>Kasse 1 Asker</TerminalName>
+    <StoreName>MAXBO Asker</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-SH0P6QGWUO</ComputerName>
+    <TerminalNumber>27902</TerminalNumber>
+    <StoreNumber>279</StoreNumber>
+    <HardwareProfile>MLH0279um</HardwareProfile>
+    <LogSize>8</LogSize>
+    <RowSize>26</RowSize>
+    <TotalSize>34</TotalSize>
+    <TerminalName>Kasse 2 Asker</TerminalName>
+    <StoreName>MAXBO Asker</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YJOYEZ6OKD</ComputerName>
+    <TerminalNumber>34301</TerminalNumber>
+    <StoreNumber>343</StoreNumber>
+    <HardwareProfile>MLH0343</HardwareProfile>
+    <TerminalName>Kasse 1 Nøtterøy</TerminalName>
+    <StoreName>MAXBO Nøtterøy</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-COG1NIP0AY</ComputerName>
+    <TerminalNumber>34302</TerminalNumber>
+    <StoreNumber>343</StoreNumber>
+    <HardwareProfile>MLH0343</HardwareProfile>
+    <TerminalName>Kasse 2 Nøtterøy</TerminalName>
+    <StoreName>MAXBO Nøtterøy</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-K5HIXUEMEF</ComputerName>
+    <TerminalNumber>34303</TerminalNumber>
+    <StoreNumber>343</StoreNumber>
+    <HardwareProfile>MLH0343um</HardwareProfile>
+    <TerminalName>Kasse 3 Nøtterøy</TerminalName>
+    <StoreName>MAXBO Nøtterøy</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-XLB5OFHXW7</ComputerName>
+    <TerminalNumber>34001</TerminalNumber>
+    <StoreNumber>340</StoreNumber>
+    <HardwareProfile>MLH0340</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>3534</RowSize>
+    <TotalSize>3904</TotalSize>
+    <TerminalName>Kasse 1 Tønsberg</TerminalName>
+    <StoreName>MAXBO Stormarked Tønsberg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-K8JLNWNP0T</ComputerName>
+    <TerminalNumber>34002</TerminalNumber>
+    <StoreNumber>340</StoreNumber>
+    <HardwareProfile>MLH0340u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Tønsberg</TerminalName>
+    <StoreName>MAXBO Stormarked Tønsberg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-G9D8D26M9O</ComputerName>
+    <TerminalNumber>34003</TerminalNumber>
+    <StoreNumber>340</StoreNumber>
+    <HardwareProfile>MLH0340u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 3 Tønsberg</TerminalName>
+    <StoreName>MAXBO Stormarked Tønsberg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-4WFYUNZTIV</ComputerName>
+    <TerminalNumber>34004</TerminalNumber>
+    <StoreNumber>340</StoreNumber>
+    <HardwareProfile>MLH0340um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7719</RowSize>
+    <TotalSize>8088</TotalSize>
+    <TerminalName>Kasse 4 Tønsberg</TerminalName>
+    <StoreName>MAXBO Stormarked Tønsberg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-UFWMEP44AX</ComputerName>
+    <TerminalNumber>30501</TerminalNumber>
+    <StoreNumber>305</StoreNumber>
+    <HardwareProfile>MLH0305</HardwareProfile>
+    <TerminalName>Kasse 1 Valdres</TerminalName>
+    <StoreName>MAXBO Valdres</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VZLZPLBCSC</ComputerName>
+    <TerminalNumber>30502</TerminalNumber>
+    <StoreNumber>305</StoreNumber>
+    <HardwareProfile>MLH0305</HardwareProfile>
+    <TerminalName>Kasse 2 Valdres</TerminalName>
+    <StoreName>MAXBO Valdres</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-0DEEDESMCN</ComputerName>
+    <TerminalNumber>30503</TerminalNumber>
+    <StoreNumber>305</StoreNumber>
+    <HardwareProfile>MLH0305um</HardwareProfile>
+    <TerminalName>Kasse 3 Valdres</TerminalName>
+    <StoreName>MAXBO Valdres</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KHHKE9JHLZ</ComputerName>
+    <TerminalNumber>31601</TerminalNumber>
+    <StoreNumber>316</StoreNumber>
+    <HardwareProfile>MLH0316</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Sandefjord</TerminalName>
+    <StoreName>MAXBO Sandefjord</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-78TULBBGJU</ComputerName>
+    <TerminalNumber>31602</TerminalNumber>
+    <StoreNumber>316</StoreNumber>
+    <HardwareProfile>MLH0316</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Sandefjord</TerminalName>
+    <StoreName>MAXBO Sandefjord</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-4UTETDHTAQ</ComputerName>
+    <TerminalNumber>31603</TerminalNumber>
+    <StoreNumber>316</StoreNumber>
+    <HardwareProfile>MLH0316um</HardwareProfile>
+    <LogSize>1054</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>8633</TotalSize>
+    <TerminalName>Kasse 3 Sandefjord</TerminalName>
+    <StoreName>MAXBO Sandefjord</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-TJGWB7VQ3D</ComputerName>
+    <TerminalNumber>32001</TerminalNumber>
+    <StoreNumber>320</StoreNumber>
+    <HardwareProfile>MLH0320</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 1 Gran</TerminalName>
+    <StoreName>MAXBO Gran</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-5SBFMPQNJL</ComputerName>
+    <TerminalNumber>32002</TerminalNumber>
+    <StoreNumber>320</StoreNumber>
+    <HardwareProfile>MLH0320m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Gran</TerminalName>
+    <StoreName>MAXBO Gran</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-UKJRH4WUYL</ComputerName>
+    <TerminalNumber>33701</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>6889</RowSize>
+    <TotalSize>19464</TotalSize>
+    <TerminalName>Kasse 1 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-MZVXTOYZWK</ComputerName>
+    <TerminalNumber>33702</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>7573</RowSize>
+    <TotalSize>20149</TotalSize>
+    <TerminalName>Kasse 2 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-YCIDXZA7SO</ComputerName>
+    <TerminalNumber>33703</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337</HardwareProfile>
+    <TerminalName>Kasse 3 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VQCMTQFXS4</ComputerName>
+    <TerminalNumber>33704</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>7559</RowSize>
+    <TotalSize>20134</TotalSize>
+    <TerminalName>Kasse 4 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OMQVDFTJQG</ComputerName>
+    <TerminalNumber>33705</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337m</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>20154</TotalSize>
+    <TerminalName>Kasse 5 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-DQGIARBFSS</ComputerName>
+    <TerminalNumber>33706</TerminalNumber>
+    <StoreNumber>337</StoreNumber>
+    <HardwareProfile>MLH0337um</HardwareProfile>
+    <LogSize>12575</LogSize>
+    <RowSize>6887</RowSize>
+    <TotalSize>19463</TotalSize>
+    <TerminalName>Kasse 6 Nygårdskrysset</TerminalName>
+    <StoreName>MAXBO Stormarked Nygårdskrysset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-6CDRO6F1RM</ComputerName>
+    <TerminalNumber>38401</TerminalNumber>
+    <StoreNumber>384</StoreNumber>
+    <HardwareProfile>MLH0384</HardwareProfile>
+    <TerminalName>Kasse 1 Gol</TerminalName>
+    <StoreName>MAXBO Gol</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-XMNHGRVCER</ComputerName>
+    <TerminalNumber>38402</TerminalNumber>
+    <StoreNumber>384</StoreNumber>
+    <HardwareProfile>MLH0384</HardwareProfile>
+    <TerminalName>Kasse 2 Gol</TerminalName>
+    <StoreName>MAXBO Gol</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-SDZTF5GR9Z</ComputerName>
+    <TerminalNumber>38403</TerminalNumber>
+    <StoreNumber>384</StoreNumber>
+    <HardwareProfile>MLH0384um</HardwareProfile>
+    <TerminalName>Kasse 3 Gol</TerminalName>
+    <StoreName>MAXBO Gol</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-IYKB1N20G8</ComputerName>
+    <TerminalNumber>32901</TerminalNumber>
+    <StoreNumber>329</StoreNumber>
+    <HardwareProfile>MLH0329</HardwareProfile>
+    <LogSize>1024</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>8602</TotalSize>
+    <TerminalName>Kasse 1 Sarpsborg</TerminalName>
+    <StoreName>MAXBO Sarpsborg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-5TXITS6QVM</ComputerName>
+    <TerminalNumber>32902</TerminalNumber>
+    <StoreNumber>329</StoreNumber>
+    <HardwareProfile>MLH0329m</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7884</TotalSize>
+    <TerminalName>Kasse 2 Sarpsborg</TerminalName>
+    <StoreName>MAXBO Sarpsborg</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-X976B23M5H</ComputerName>
+    <TerminalNumber>34101</TerminalNumber>
+    <StoreNumber>341</StoreNumber>
+    <HardwareProfile>MLH0341</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7577</RowSize>
+    <TotalSize>7946</TotalSize>
+    <TerminalName>Kasse 1 Tjøme</TerminalName>
+    <StoreName>MAXBO Tjøme</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-OME9N6NNLF</ComputerName>
+    <TerminalNumber>34102</TerminalNumber>
+    <StoreNumber>341</StoreNumber>
+    <HardwareProfile>MLH0341u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7579</RowSize>
+    <TotalSize>7948</TotalSize>
+    <TerminalName>Kasse 2 Tjøme</TerminalName>
+    <StoreName>MAXBO Tjøme</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-DQC3IVPWL9</ComputerName>
+    <TerminalNumber>34103</TerminalNumber>
+    <StoreNumber>341</StoreNumber>
+    <HardwareProfile>MLH0341um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7578</RowSize>
+    <TotalSize>7947</TotalSize>
+    <TerminalName>Kasse 3 Tjøme</TerminalName>
+    <StoreName>MAXBO Tjøme</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-LMFNNIGGAF</ComputerName>
+    <TerminalNumber>31301</TerminalNumber>
+    <StoreNumber>313</StoreNumber>
+    <HardwareProfile>MLH0313</HardwareProfile>
+    <TerminalName>Kasse 1 Nesbyen</TerminalName>
+    <StoreName>MAXBO Nesbyen</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-GO5ZMCHQIL</ComputerName>
+    <TerminalNumber>31302</TerminalNumber>
+    <StoreNumber>313</StoreNumber>
+    <HardwareProfile>MLH0313m</HardwareProfile>
+    <TerminalName>Kasse 2 Nesbyen</TerminalName>
+    <StoreName>MAXBO Nesbyen</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-H8J3LZFWCI</ComputerName>
+    <TerminalNumber>31501</TerminalNumber>
+    <StoreNumber>315</StoreNumber>
+    <HardwareProfile>MLH0315</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>6889</RowSize>
+    <TotalSize>7194</TotalSize>
+    <TerminalName>Kasse 1 Tynset</TerminalName>
+    <StoreName>MAXBO Tynset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-JEKI5VJ6DQ</ComputerName>
+    <TerminalNumber>31502</TerminalNumber>
+    <StoreNumber>315</StoreNumber>
+    <HardwareProfile>MLH0315m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7574</RowSize>
+    <TotalSize>7944</TotalSize>
+    <TerminalName>Kasse 2 Tynset</TerminalName>
+    <StoreName>MAXBO Tynset</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KEP1TZHEZP</ComputerName>
+    <TerminalNumber>33401</TerminalNumber>
+    <StoreNumber>334</StoreNumber>
+    <HardwareProfile>MLH0334</HardwareProfile>
+    <LogSize>305</LogSize>
+    <RowSize>6890</RowSize>
+    <TotalSize>7195</TotalSize>
+    <TerminalName>Kasse 1 Kragerø</TerminalName>
+    <StoreName>MAXBO Kragerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ECDCPEGO04</ComputerName>
+    <TerminalNumber>33402</TerminalNumber>
+    <StoreNumber>334</StoreNumber>
+    <HardwareProfile>MLH0334</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7552</RowSize>
+    <TotalSize>7922</TotalSize>
+    <TerminalName>Kasse 2 Kragerø</TerminalName>
+    <StoreName>MAXBO Kragerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-VMMWDL6YRQ</ComputerName>
+    <TerminalNumber>33403</TerminalNumber>
+    <StoreNumber>334</StoreNumber>
+    <HardwareProfile>MLH0334um</HardwareProfile>
+    <LogSize>1054</LogSize>
+    <RowSize>7563</RowSize>
+    <TotalSize>8618</TotalSize>
+    <TerminalName>Kasse 3 Kragerø</TerminalName>
+    <StoreName>MAXBO Kragerø</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-ET52RWMSUN</ComputerName>
+    <TerminalNumber>29601</TerminalNumber>
+    <StoreNumber>296</StoreNumber>
+    <HardwareProfile>MLH0296</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7542</RowSize>
+    <TotalSize>7912</TotalSize>
+    <TerminalName>Kasse 1 Lillehammer</TerminalName>
+    <StoreName>MAXBO Lillehammer</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-X2MVDG2TUT</ComputerName>
+    <TerminalNumber>29602</TerminalNumber>
+    <StoreNumber>296</StoreNumber>
+    <HardwareProfile>MLH0296u</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7466</RowSize>
+    <TotalSize>7836</TotalSize>
+    <TerminalName>Kasse 2 Lillehammer</TerminalName>
+    <StoreName>MAXBO Lillehammer</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:39:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-HLPCTBQNAU</ComputerName>
+    <TerminalNumber>29603</TerminalNumber>
+    <StoreNumber>296</StoreNumber>
+    <HardwareProfile>MLH0296um</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7325</RowSize>
+    <TotalSize>7695</TotalSize>
+    <TerminalName>Kasse 3 Lillehammer</TerminalName>
+    <StoreName>MAXBO Lillehammer</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-O2JDVUQ3BM</ComputerName>
+    <TerminalNumber>30301</TerminalNumber>
+    <StoreNumber>303</StoreNumber>
+    <HardwareProfile>MLH0303</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7516</RowSize>
+    <TotalSize>7886</TotalSize>
+    <TerminalName>Kasse 1 Harestua</TerminalName>
+    <StoreName>MAXBO Harestua</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-2YCRWXKYSF</ComputerName>
+    <TerminalNumber>30302</TerminalNumber>
+    <StoreNumber>303</StoreNumber>
+    <HardwareProfile>MLH0303m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7544</RowSize>
+    <TotalSize>7914</TotalSize>
+    <TerminalName>Kasse 2 Harestua</TerminalName>
+    <StoreName>MAXBO Harestua</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-GWYDALOLOS</ComputerName>
+    <TerminalNumber>29901</TerminalNumber>
+    <StoreNumber>299</StoreNumber>
+    <HardwareProfile>MLH0299</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7674</RowSize>
+    <TotalSize>8043</TotalSize>
+    <TerminalName>Kasse 1 Mandal</TerminalName>
+    <StoreName>MAXBO Mandal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:35:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-QEGTX7FTP2</ComputerName>
+    <TerminalNumber>29902</TerminalNumber>
+    <StoreNumber>299</StoreNumber>
+    <HardwareProfile>MLH0299m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7555</RowSize>
+    <TotalSize>7925</TotalSize>
+    <TerminalName>Kasse 2 Mandal</TerminalName>
+    <StoreName>MAXBO Mandal</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:37:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-530AIZT8R8</ComputerName>
+    <TerminalNumber>38501</TerminalNumber>
+    <StoreNumber>385</StoreNumber>
+    <HardwareProfile>MLH0385</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7572</RowSize>
+    <TotalSize>7942</TotalSize>
+    <TerminalName>Kasse 1 Geilo</TerminalName>
+    <StoreName>MAXBO Geilo</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:34:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KCSPPNQ9IZ</ComputerName>
+    <TerminalNumber>38502</TerminalNumber>
+    <StoreNumber>385</StoreNumber>
+    <HardwareProfile>MLH0385m</HardwareProfile>
+    <LogSize>369</LogSize>
+    <RowSize>7543</RowSize>
+    <TotalSize>7913</TotalSize>
+    <TerminalName>Kasse 2 Geilo</TerminalName>
+    <StoreName>MAXBO Geilo</StoreName>
+    <Online>1</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-RZZLYNNZAE</ComputerName>
+    <TerminalNumber>31901</TerminalNumber>
+    <StoreNumber>319</StoreNumber>
+    <HardwareProfile>MLH0319</HardwareProfile>
+    <TerminalName>Kasse 1 Dokka</TerminalName>
+    <StoreName>MAXBO Dokka</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:38:00</Date>
+  </row>
+  <row>
+    <ComputerName>MPOS-KTWPEJTIGT</ComputerName>
+    <TerminalNumber>31902</TerminalNumber>
+    <StoreNumber>319</StoreNumber>
+    <HardwareProfile>MLH0319m</HardwareProfile>
+    <TerminalName>Kasse 2 Dokka</TerminalName>
+    <StoreName>MAXBO Dokka</StoreName>
+    <Online>0</Online>
+    <Date>2022-03-10T00:36:00</Date>
+  </row>
+</CATALOG>
